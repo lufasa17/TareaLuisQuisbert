@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    
+}
+.padre{
+    background-color: red;
+    padding: 20px;
+   /* width: 400px;*/
+   
+    
+}
+.hijo{
+    background-color: yellow;
+    padding: 20px;
+    border-radius: 30px;
+}
+.nieto{
+    background-color: chartreuse;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+}
+.bisnieto{
+    background-color: orange;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+}
+.n4{
+    background-color: purple;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+
+}
+.n5{
+    background-color:darkblue;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.n6{
+    background-color: darkolivegreen;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+}
+
+.n7{
+    background-color: goldenrod;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 30px;
+
+}
